@@ -1,0 +1,6 @@
+# Local environments and generated artifacts
+.env
+.env.*
+!.env.example
+.DS_Store
+coverage.out
